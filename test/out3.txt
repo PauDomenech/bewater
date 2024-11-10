@@ -1,0 +1,18 @@
+cabal minim
+350.0
+cabal minim
+175.0
+L'aixeta s'ha tancat
+cabal minim
+200.0
+cabal minim
+100.0
+L'aixeta s'ha tancat
+cabal minim
+0.0
+cabal minim
+0.0
+cabal minim
+0.0
+cabal minim
+0.0
